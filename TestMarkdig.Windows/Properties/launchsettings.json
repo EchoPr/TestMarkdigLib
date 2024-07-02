@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"TestMarkdig.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"TestMarkdig.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
